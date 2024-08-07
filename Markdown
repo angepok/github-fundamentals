@@ -1,0 +1,22 @@
+#My First Markdown
+
+This is a tutorial about the fundameentals of git and will help ypu navigate git and Github with ease.
+
+##GIT
+Git is a version control system that tracks the changes made in a programme
+
+Git commands - uNDERLINE Heading
+
+###Principles
+**seoartion of Concernn**
+**Use of Imperative tense**
+**CI / CD **
+
+###Other Features
+Branch
+creating a branch
+
+Areas of difficullty
+How to merge
+Push Request
+
